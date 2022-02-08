@@ -1,0 +1,10 @@
+[
+    {
+        "package": "ldc",
+        "url": "https://github.com/TxWRI/ldc"
+    },
+    {
+        "package": "twriTemplates",
+        "url": "https://github.com/TxWRI/twriTemplates"
+    }
+]
