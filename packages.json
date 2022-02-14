@@ -6,5 +6,9 @@
     {
         "package": "twriTemplates",
         "url": "https://github.com/TxWRI/twriTemplates"
+    },
+	{
+        "package": "wd4tx",
+        "url": "https://github.com/TxWRI/wd4tx"
     }
 ]
