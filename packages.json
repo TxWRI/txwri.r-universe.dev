@@ -1,5 +1,9 @@
 [
     {
+        "package": "adc",
+        "url": "https://github.com/TxWRI/adc"
+    },
+    {
         "package": "ldc",
         "url": "https://github.com/TxWRI/ldc"
     },
