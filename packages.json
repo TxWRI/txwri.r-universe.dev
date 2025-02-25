@@ -8,6 +8,10 @@
         "url": "https://github.com/TxWRI/ldc"
     },
     {
+        "package": "SELECTRdata",
+        "url": "https://github.com/TxWRI/SELECTRdata"
+    },
+    {
         "package": "twriTemplates",
         "url": "https://github.com/TxWRI/twriTemplates"
     },
